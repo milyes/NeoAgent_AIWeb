@@ -1,27 +1,29 @@
-# NeoAgent_AIWeb
+🚀 **Lancement officiel de NeoAgent_AIWeb !**
 
-![NeoAgent Banner](banner.png)
+Chers membres de la communauté,
 
-> 🚀 Plateforme IA Web et Mobile développée par **Zoubirou Mohammed Ilyes**  
-> GitHub Pages : [milyes.github.io/NeoAgent_AIWeb](https://milyes.github.io/NeoAgent_AIWeb)
+Je suis heureux de vous annoncer la sortie de **NeoAgent_AIWeb** – votre assistant IA mobile et web nouvelle génération !
 
-## 🌟 À propos
-NeoAgent_AIWeb est une interface d'assistant IA moderne, compatible mobile, intégrant les dernières technologies Web & IA.
+🔹 **Fonctionnalités clés** :
+- Intelligence artificielle embarquée (GPT‑4o)
+- Mode offline via Termux + WebView Flutter
+- Interface Web responsive avec mode sombre
+- Authentification et historique de conversations
+- Partage social & suggestions de questions contextuelles
 
-## ✅ Fonctionnalités
+🌐 **Essayez-le dès maintenant** :
+👉 https://milyes.github.io/NeoAgent_AIWeb
 
-- 🔮 Interface Web IA avec WebView mobile
-- ⚡️ Lancement rapide depuis GitHub Pages
-- 🧠 Interaction IA intelligente (connectée ou embarquée)
-- 🎨 Design cohérent avec branding NeoAgent
+📥 **Téléchargez l’APK Android (offline)** :
+👉 https://github.com/milyes/NeoAgent_AIWeb/blob/main/NeoAgent_AIWeb_FULL_FINAL.zip
 
-## 📥 Téléchargement & Démo
-
-👉 [Accéder à la page GitHub Pages](https://milyes.github.io/NeoAgent_AIWeb)
-
-📱 Disponible en APK (WebView Flutter) – Voir dépôt mobile lié.
+🤝 Vos retours sont précieux :
+N’hésitez pas à m’envoyer vos retours, ouvrir une Pull Request ou simplement ⭐ liker le projet !
 
 ---
 
-**Auteur :** Zoubirou Mohammed Ilyes  
-**ORCID :** [https://orcid.org/0009-0007-7571-3178](https://orcid.org/0009-0007-7571-3178)
+🔖 **À propos**
+> **Zoubirou Mohammed Ilyes** – Fondateur NetSecurePro, Développeur IA indépendant  
+> **ORCID** : https://orcid.org/0009-0007-7571-3178  
+
+#NeoAgentIonAIWeb #IntelligenceArtificielle #OpenSource #Termux #FastAPI #Flutter #GPT4o
